@@ -1,0 +1,51 @@
+.city-card-container{
+    display: flex;
+
+}
+
+.city-card {
+    height: 600px;
+    width: 800px;
+    border: 8px double black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(244, 211, 231);
+}
+
+
+.img-poster {
+    width: 800px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.same-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.heading{
+    margin-top: -10px;
+}
+
+.rating{
+    color: blueviolet;
+}
+
+.sub-heading{
+    font-size: 20px;
+    margin-top: -20px;
+    
+}
+
+.time{
+    margin-top: -15px;
+    font-weight: bolder;
+    font-size: 12px;
+}
+.history{
+    color: rgb(45, 4, 4);
+       
+}
